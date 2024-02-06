@@ -1,0 +1,43 @@
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 30px;
+    color: white;
+}
+
+.target {
+    background: #95e5d3;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1, .box2, .box3{
+    border: 5px solid #f1dea4;
+    background: #2e40a8;
+    width: 800px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ .target4{
+     background: #95e5d3;
+     height: 100px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+
+
+
