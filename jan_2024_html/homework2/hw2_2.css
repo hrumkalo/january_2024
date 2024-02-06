@@ -1,0 +1,21 @@
+.block1, .block2{
+    height: 250px;
+    background-color: darkseagreen;
+    margin: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.square1, .square2, .square3, .square4, .square5, .square6, .square{
+    width: 100px;
+    height: 100px;
+    background-color: darkred;
+    margin: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.square:hover{
+    background-color: #f1dea4;
+    border-radius: 50px;
+}
