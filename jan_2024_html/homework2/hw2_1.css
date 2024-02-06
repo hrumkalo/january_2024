@@ -10,5 +10,32 @@
     background-color: blanchedalmond;
     margin: 30px;
 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
+.DancingScript{
+    font-family: 'Dancing Script', cursive;
+}
+
+.ProtestRevolution{
+    font-family: 'Protest Revolution', sans-serif;
+}
+
+.GloriaHallelujah{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.NovaScript{
+    font-family: 'Nova Script', system-ui;
+}
+
+.Satisfy{
+    font-family: 'Satisfy', cursive;
+}
+
+p{
+    font-size: 30px;
+}
