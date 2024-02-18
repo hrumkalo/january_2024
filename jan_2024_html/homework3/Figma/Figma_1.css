@@ -1,0 +1,16 @@
+.Header{
+    height: 20vh;
+    background: #D9D9D9;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+
+main{
+    height: 60vh;
+    background: #D9D9D9;
+}
+
+footer{
+    height: 20vh;
+    background: #D9D9D9;
+}
