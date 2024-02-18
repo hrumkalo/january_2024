@@ -1,0 +1,57 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+#lightBlue{
+    height: 100vh;
+    background-color: #b8e1e7;
+    color: #000000;
+}
+
+
+#green {
+    height: 100vh;
+    background-color: #98c582;
+    color: white;
+}
+#red{
+    height: 100vh;
+    background-color: #cb7e86;
+    color: #000000;
+}
+
+p{
+    font-size: 2em;
+}
+
+h3{
+    font-size: 3em;
+
+}
+.ForlightBlue, .ForGreen, .ForRed{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 140px;
+    display: block;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.EmptyBlock{
+    width: 140px;
+    height: 120px;
+
+}
+
+
+
