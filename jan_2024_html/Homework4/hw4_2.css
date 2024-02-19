@@ -1,0 +1,83 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label{
+    display: block;
+    margin: 10px 0;
+}
+
+.Instagram{
+
+    border: 2px solid #d3cfcf;
+    width: 700px;
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.InstaLogo img{
+    padding-top: 30px;
+    width: 500px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type="text"],
+input[type="password"]
+{
+width: 500px;
+    height: 70px;
+    border-radius: 10px;
+    border: 2px solid #cccaca;
+    font-size: 25px;
+    padding-left: 10px;
+    text-overflow: ellipsis;
+}
+
+input[type="Submit"]{
+    width: 510px;
+    height: 80px;
+    border-radius: 15px;
+    border: 2px solid #cccaca;
+    background-color: #68b3f7;
+    color: white;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.white-text-checkbox {
+    color: white;
+}
+
+p{
+    color: #706a6a;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Protest Revolution', sans-serif;
+
+}
+
+.FecebookLogo img{
+    padding-top: 10px;
+    width: 60px;
+    height: 60px;
+}
+
+.FecebookLogo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 20px;
+}
