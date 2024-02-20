@@ -12,8 +12,8 @@ label{
 .Instagram{
 
     border: 2px solid #d3cfcf;
-    width: 700px;
-    height: 900px;
+    width: 600px;
+    height: 800px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -70,14 +70,44 @@ p{
 }
 
 .FecebookLogo img{
-    padding-top: 10px;
     width: 60px;
     height: 60px;
-}
+    margin-left: -132px;
+    margin-right: 50px;
+    margin-top: 8px;
 
+}
 .FecebookLogo{
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    margin-left: 20px;
 }
+
+a p {
+    color: #334978;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.ForgPas p{
+    margin-top: -10px;
+    color: #334978;
+}
+
+.Insta2{
+    padding-top: 35px;
+    border: 2px solid #d3cfcf;
+    width: 600px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Oneline p{
+    padding-top: 10px;
+    display: inline;
+}
+
